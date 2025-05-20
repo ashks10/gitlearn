@@ -31,6 +31,12 @@ This project helps me **master Git & GitHub** by working on real code, and learn
 
 ---
 
+🧭 Useful Resources
+
+- 📘 Git Handbook – GitHub
+- 📘 Git Documentation
+- 📺 CodeWithHarry Git Tutorial (YouTube)
+
 ## 🧰 Git Command Cheatsheet
 
 ### 🔧 Initialization & Setup
